@@ -1,5 +1,5 @@
 public class TestFruit {
-    public static void main(String args){
+    public static void main(String[] args){
         Fruit fruits[3];
 
         fruits[0] = new Fruit("Apple", 10);
